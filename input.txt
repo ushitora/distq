@@ -1,0 +1,13 @@
+5
+4
+16
+abaa
+ababbaabaabaabab
+abcd
+aabbcdbababcdabc
+abab
+abababababaababa
+aaba
+aabaabaababababa
+aaaa
+aaaaaaaaaaaaaaaa
